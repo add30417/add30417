@@ -5,11 +5,11 @@
 - 🧱 I'm using especially ESP32/ES8266 from Olimex in the latest projects. But open to try new hardware, the latest new discover is M5Stack.
 - 🧰 I'm using Apple hardware for the development activies.
 - Projects:
-  - - Mailbox notifier
-  - - Outdoor keypad
-  - - Smart watch
-  - - Smart alarm clock
-  - - Photovoltaic system status panel
+  - Mailbox notifier
+  - Outdoor keypad
+  - Smart watch
+  - Smart alarm clock
+  - Photovoltaic system status panel
 
 <!---
 - 🌱 I’m currently learning ...
