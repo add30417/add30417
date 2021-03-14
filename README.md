@@ -10,6 +10,10 @@
   - Smart watch
   - Smart alarm clock
   - Photovoltaic system status panel
+  - Smartmeter network interface with relay function
+  - Outdoor temperatur sensor network interface
+  - Weather station network interface
+  - LEGO Powered Up Train network interface and automation control 
 
 <!---
 - 🌱 I’m currently learning ...
