@@ -4,6 +4,13 @@
 - 📝 I'm using different programming languages. For the latest projects, I'm using python, js, bash, mariadb, php ... . In the past, during my professional software engineer career, I used various of language and products: C, C++, C#, Java, ASP, AJAX, AS400, MySQL, Oracle, VBS, PHP... 
 - 🧱 I'm using especially ESP32/ES8266 from Olimex in the latest projects. But open to try new hardware, the latest new discover is M5Stack.
 - 🧰 I'm using Apple hardware for the development activies.
+- Projects:
+- - Mailbox notifier
+- - Outdoor keypad
+- - Smart watch
+- - Smart alarm clock
+- - Photovoltaic system status panel
+
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
