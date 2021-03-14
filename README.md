@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @add30417
 - 👀 I’m interested in the field of IoT.
 - ⚙️ I’m developed and setup many small private IoT project's at parent's and my home. Some (arduino) projects running since 2011 without interruption or hardware changes. During corona lockdown, I improved and enhanced my projects. In this time, almost all small projects could connected to a bigger solution, the central component is a clock which shows (secretly) the status.
-- 📝 I'm using different programming languages. For the latest projects, I'm using python, js, bash, mariadb, ...
+- 📝 I'm using different programming languages. For the latest projects, I'm using python, js, bash, mariadb, php ... . In the past, during my professional software engineer career, I used various of language and products: C, C++, C#, Java, ASP, AJAX, AS400, MySQL, Oracle, VBS, PHP... 
 - 🧱 I'm using especially ESP32/ES8266 from Olimex in the latest projects. But open to try new hardware, 
 - 🧰 I'using Apple hardware for the development.
 <!---
