@@ -11,7 +11,7 @@
   - Smart alarm clock
   - Smart home (e.g. https://github.com/home-assistant-libs/pytradfri)
   - Photovoltaic system status panel
-  - Smartmeter network interface with relay function
+  - Smartmeter network interface with power relay function
   - Outdoor temperatur sensor network interface
   - Weather station network interface
   - LEGO Powered Up Train network interface and automation control (https://github.com/nathankellenicki/node-poweredup)
