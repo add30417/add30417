@@ -9,6 +9,7 @@
   - Outdoor keypad
   - Smart watch
   - Smart alarm clock
+  - Smart home (e.g. https://github.com/home-assistant-libs/pytradfri)
   - Photovoltaic system status panel
   - Smartmeter network interface with relay function
   - Outdoor temperatur sensor network interface
