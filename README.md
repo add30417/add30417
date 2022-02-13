@@ -16,6 +16,7 @@
   - Weather station network interface
   - LEGO Powered Up Train network interface and automation control (https://github.com/nathankellenicki/node-poweredup)
   - Connect the heater with my smarthome (https://github.com/schmiegelt/Py-Weishaupt-WCM-COM)
+  - and future extensions (https://github.com/ct-Open-Source/ct-Smart-Home)
 
 <!---
 - 🌱 I’m currently learning ...
